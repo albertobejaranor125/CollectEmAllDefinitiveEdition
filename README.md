@@ -21,11 +21,11 @@ A 2D game developed in **C++** with **SDL2** where your goal is to collect items
 ## 📦 Folder Structure
 
 bin/
-CollectEmAll.exe
-SDL2.dll
-SDL2_image.dll
-SDL2_ttf.dll
-SDL2_mixer.dll
+  CollectEmAll.exe
+  SDL2.dll
+  SDL2_image.dll
+  SDL2_ttf.dll
+  SDL2_mixer.dll
 assets/
 spritesheet.png
 heart.png
